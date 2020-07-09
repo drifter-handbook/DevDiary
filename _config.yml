@@ -1,1 +1,3 @@
 theme: jekyll-theme-midnight
+baseurl: "/blog"
+url: "https://drifter-handbook.github.io/DevDiary"
